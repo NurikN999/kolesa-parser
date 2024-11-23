@@ -1,2 +1,3 @@
 parser-env/*
 parser-env
+__pycache__/
